@@ -2,7 +2,6 @@
 Nft market place with cool animation.
 ## NFt marketplace App        
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-<img src="https://user-images.githubusercontent.com/24698014/86006569-ca65f780-ba33-11ea-9ea0-a7c08d4eb9b2.gif" width="280" height="550">
 ## Screenshots
 
 1     |    2                |  3   |  4
