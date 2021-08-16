@@ -1,7 +1,6 @@
 # nft_marketplace
-
-A new Flutter application.
-## OneRoof App        
+Nft market place with cool animation.
+## NFt marketplace App        
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 <img src="https://user-images.githubusercontent.com/24698014/86006569-ca65f780-ba33-11ea-9ea0-a7c08d4eb9b2.gif" width="280" height="550">
 ## Screenshots
@@ -32,7 +31,7 @@ if you like my work support me
 ```
 The MIT License
 
-Copyright (c) 2020 Divyam Joshi
+Copyright (c) 2021 Divyam Joshi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
