@@ -1,6 +1,7 @@
 # nft_marketplace
 Nft market place with cool animation.
 ## NFt marketplace App        
+Assets credit to dribbble artist
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ## Screenshots
 
