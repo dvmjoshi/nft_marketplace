@@ -1,5 +1,5 @@
 # nft_marketplace
-Nft market place with cool animation.
+Nft market place concept app with cool animation. Non Fungible Tokens (NFTs) are digital assets that represent objects like art, collectible, and in-game items. They are traded online, often with cryptocurrency, and are generally encoded within smart contracts on a blockchain
 ## Feel free to contribute 
 ## NFt marketplace App        
 
