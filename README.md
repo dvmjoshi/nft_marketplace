@@ -2,7 +2,17 @@
 Nft market place with cool animation.
 ## Feel free to contribute 
 ## NFt marketplace App        
-Assets credit to dribbble artist
+## Video Demo 📺
+<hr />
+https://user-images.githubusercontent.com/24698014/138818077-08cee3c7-0f3b-4bfe-aa28-d7fe708150ac.mp4?width=250&height=250
+
+<!-- <p align="center">
+  <a href="https://youtu.be/3-ikI6ZxBZA" target="_blank"><img src="internals/img/subtitler-intro-imgur.gif"></a>
+</p> -->
+
+<hr />
+
+## Assets credit to dribbble artist
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ## Screenshots
 
